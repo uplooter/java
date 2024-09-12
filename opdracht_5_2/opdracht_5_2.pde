@@ -1,6 +1,7 @@
-int mijnVariabele = 8;
-String eenVariabele = "hello from holland";
-String NogeenVariabele = "we are happy here";
-String tweedeVariabele = "hell0o ";
+String a = " wat ";
+String c = " lang ";
+String b = " zeg! ";
+String l = "";
 
 println( eenVariabele + NogeenVariabele +tweedeVariabele);
+println(l);
