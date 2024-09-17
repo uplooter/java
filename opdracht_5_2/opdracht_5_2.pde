@@ -3,5 +3,5 @@ String c = " lang ";
 String b = " zeg! ";
 String l = "";
 
-println( eenVariabele + NogeenVariabele +tweedeVariabele);
+l = a + c + b;
 println(l);
